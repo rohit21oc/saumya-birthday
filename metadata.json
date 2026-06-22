@@ -1,0 +1,6 @@
+{
+  "name": "Saumya's Birthday Surprise",
+  "description": "A beautiful, romantic and premium birthday surprise website created for Saumya Nishant on 23 June.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
