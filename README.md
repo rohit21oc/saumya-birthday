@@ -1,12 +1,12 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+<img width="1200" height="475" alt="websitebanner" src="[https://ai.google.dev/static/site-assets/images/share-ais-513315318.png](https://github.com/rohit21oc/saumya-birthday/blob/main/src/assets/images/Screenshot%202026-06-25%20221555.png)" />
 </div>
 
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/23f7e2fe-32f6-4fea-a96c-8ee38aab5ec1
+View your app in AI Studio: https://saumya-birthday.vercel.app/
 
 ## Run Locally
 
